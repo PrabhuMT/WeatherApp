@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #222;
+    color: #fff;
+}
+
+.container{
+    width: fit-content;
+    height: 500px;
+    display: block;
+    margin: auto;
+    color: black;
+    margin-top: 50px;
+    padding: 20px;
+    border-radius: 20px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("sunny.jpeg")
+}
+
+.main{
+    margin: 75px 0px 0px 0px;
+}
+
+header{
+    text-align: center;
+   
+}
+
+header input{
+    line-height: 20px;
+    width: 300px;
+    text-align: center;
+    border-radius: 15px 0px 15px 0px;
+}
+
+.location{
+    text-align: center;
+    padding-top: 10px;
+}
+
+.city{
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.date{
+    padding-top: 10px;
+    font-style: italic;
+}
+
+.current{
+    text-align: center;
+}
+
+.temp{
+    font-size: 50px;
+    padding: 20px 0px 20px 0px;
+}
+
+.weather{
+    font-size: 30px;
+}
+
+.hi-low{
+    padding-top: 10px;
+    font-size: 20px;
+}

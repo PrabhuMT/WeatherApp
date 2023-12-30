@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PrabhuMT
-- 👀 I’m interested in UI/UX Design
-- 🌱 I’m currently learning React.Js
-- 💞️ I’m looking to collaborate on front end development
+- 👀 I’m interested in development
+- 🌱 I’m currently learning machine learning
 - 📫 How to reach me prabhumorkonda@gmail.com
 
 <!---

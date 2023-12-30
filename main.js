@@ -50,6 +50,9 @@ function displayResults (weather) {
         case "Clear":
             document.getElementById("bg").style.backgroundImage = "url('clear.gif')";
             break;
+        case "Haze":
+            document.getElementById("bg").style.backgroundImage = "url('haze.gif')";
+            break;
         default:
             document.getElementById("bg").style.backgroundColor = "blue";
     }

@@ -53,6 +53,9 @@ function displayResults (weather) {
         case "Haze":
             document.getElementById("bg").style.backgroundImage = "url('haze.gif')";
             break;
+        case "Fog":
+            document.getElementById("bg").style.backgroundImage = "url('haze.gif')";
+            break;
         default:
             document.getElementById("bg").style.backgroundColor = "blue";
     }

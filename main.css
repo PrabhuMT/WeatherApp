@@ -21,11 +21,14 @@ body{
     border-radius: 20px;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url("sunny.jpeg")
+    background-image: url("sunny.jpg")
 }
 
 .main{
     margin: 75px 0px 0px 0px;
+    background-color: rgba(211, 211, 211, 0.4);
+    border-radius: 20px;
+    padding: 20px;
 }
 
 header{
